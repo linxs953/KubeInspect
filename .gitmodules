@@ -1,0 +1,12 @@
+[submodule "Frontend"]
+	path = Frontend
+	url = https://mrfvfglr.bja.sealos.run/linxs/LCT_Dashboard.git
+[submodule "Backend"]
+	path = Backend
+	url = https://mrfvfglr.bja.sealos.run/linxs/LCT_Backend.git
+[submodule "Cluster/SI_Scheduler"]
+	path = Cluster/SI_Scheduler
+	url = https://mrfvfglr.bja.sealos.run/linxs/scheduler.git
+[submodule "Cluster/Component"]
+	path = Cluster/Component
+	url = https://mrfvfglr.bja.sealos.run/linxs/LCT_Cluster.git
