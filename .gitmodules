@@ -10,3 +10,6 @@
 [submodule "Cluster/Component"]
 	path = Cluster/Component
 	url = https://mrfvfglr.bja.sealos.run/linxs/LCT_Cluster.git
+[submodule "Cluster/Images"]
+	path = Cluster/Images
+	url = https://mrfvfglr.bja.sealos.run/linxs/Image.git
