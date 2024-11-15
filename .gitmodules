@@ -1,15 +1,18 @@
 [submodule "Frontend"]
 	path = Frontend
 	url = https://github.com/linxs953/SI_Dashboard.git
-[submodule "Backend"]
-	path = Backend
-	url = https://mrfvfglr.bja.sealos.run/linxs/LCT_Backend.git
+[submodule "Storage"]
+	path = Storage
+	url = https://github.com/linxs953/SI_Storage.git
 [submodule "Cluster/SI_Scheduler"]
 	path = Cluster/SI_Scheduler
-	url = https://mrfvfglr.bja.sealos.run/linxs/scheduler.git
-[submodule "Cluster/Component"]
-	path = Cluster/Component
-	url = https://mrfvfglr.bja.sealos.run/linxs/LCT_Cluster.git
-[submodule "Cluster/Images"]
-	path = Cluster/Images
-	url = https://mrfvfglr.bja.sealos.run/linxs/Image.git
+	url = https://github.com/linxs953/SI_Scheduler.git
+[submodule "Cluster/Core"]
+	path = Cluster/Core
+	url = https://github.com/linxs953/SI_Core.git
+[submodule "Cluster/Entry"]
+	path = Cluster/Entry
+	url =https://github.com/linxs953/SI_Entry.git
+[submodule "Cluster/Registry"]
+	path = Cluster/Registry
+	url =https://github.com/linxs953/SI_Registry.git
