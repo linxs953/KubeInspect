@@ -1,6 +1,6 @@
 [submodule "Frontend"]
 	path = Frontend
-	url = https://mrfvfglr.bja.sealos.run/linxs/LCT_Dashboard.git
+	url = https://github.com/linxs953/SI_Dashboard.git
 [submodule "Backend"]
 	path = Backend
 	url = https://mrfvfglr.bja.sealos.run/linxs/LCT_Backend.git
