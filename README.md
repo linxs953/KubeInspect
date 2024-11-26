@@ -25,12 +25,12 @@ KubeInspect 是一个基于云原生架构的现代化测试平台，旨在革�
 
 ## 🏗️ 系统架构
 
-![Star Inspection Architecture](static/arch.png)
+![KubeInspect Architecture](static/arch.png)
 
 
 ## 🔄 流程图
 
-![Star Inspection Sequence](static/opsFlow.png)
+![KubeInspect Sequence](static/opsFlow.png)
 
 ### 核心组件
 
